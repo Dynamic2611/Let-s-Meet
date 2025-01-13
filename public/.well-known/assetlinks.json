@@ -1,0 +1,10 @@
+[
+    {
+        "relation":["delegate_perrmission/commom.handle_all_urls"],
+        "target":{
+            "namespace":"android_app",
+            "package_name":"com.example.loginapp",
+            "sha256_cert_fingerprints":["BA:37:BD:86:8F:92:25:D7:80:25:04:B8:23:2B:A1:AE:FF:C2:5A:03:29:F5:59:06:C0:58:9D:6C:A4:CB:52:52"]
+        }
+    }
+]

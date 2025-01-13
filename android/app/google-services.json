@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "270549215024",
+    "firebase_url": "https://image-ai-e609e-default-rtdb.firebaseio.com",
+    "project_id": "image-ai-e609e",
+    "storage_bucket": "image-ai-e609e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270549215024:android:7a7025748e94404d6d8af5",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270549215024-u3d31gu8d97nsehsrcat1od6r1mks27m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginapp",
+            "certificate_hash": "0375c39e719472de6c30a0d449af9f6b4f761cb5"
+          }
+        },
+        {
+          "client_id": "270549215024-75fgesdjsf6hjkpcnam5adqkmuu1cn7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTywTZWB6tuzTJfpLQ-hMNoCdfgGB3YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270549215024-75fgesdjsf6hjkpcnam5adqkmuu1cn7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270549215024-s0otqcrm77j1eal3k9ajnfnu2vc37bq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270549215024:android:c1b999190bf726036d8af5",
+        "android_client_info": {
+          "package_name": "com.example.speech_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270549215024-v0io9e3m45erhgkg3443rlkp0m74i70i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speech_app",
+            "certificate_hash": "0375c39e719472de6c30a0d449af9f6b4f761cb5"
+          }
+        },
+        {
+          "client_id": "270549215024-75fgesdjsf6hjkpcnam5adqkmuu1cn7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTywTZWB6tuzTJfpLQ-hMNoCdfgGB3YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270549215024-75fgesdjsf6hjkpcnam5adqkmuu1cn7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270549215024-s0otqcrm77j1eal3k9ajnfnu2vc37bq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
