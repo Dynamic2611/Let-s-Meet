@@ -97,7 +97,7 @@ class _VideoCallZState extends State<VideoCallZ> {
               ignoring: _showWhiteboard, // Ignore pointer events if whiteboard is shown
               child: ZegoUIKitPrebuiltVideoConference(
                 appID: 852478794, // Replace with your actual appID
-                appSign: '51c3ed478a915d936c1550d4ea2f540fc859f9cce994421be900c95a6660a508', // Replace with your actual appSign
+                appSign: 'your API key of ZegoCloud', // Replace with your actual appSign
                 userID: '$currentUserId',
                 userName: '$userName',
                 conferenceID: widget.channelName,
