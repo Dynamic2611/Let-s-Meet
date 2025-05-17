@@ -1,147 +1,73 @@
-# Let-s-Meet
-Let's Meet
+# 💬 Let's Meet
 
-Overview
+> A feature-rich virtual meeting application designed to enhance online collaboration and productivity.  
+> *Built as part of a fifth-semester academic project.*
 
-"Let's Meet" is a feature-rich virtual meeting application designed to enhance online collaboration and productivity. Built as part of a fifth-semester academic project, the app addresses gaps in current video conferencing platforms by introducing innovative functionalities for professionals, educators, and businesses.
+---
 
-Features
+## 🚀 Overview
 
-1. Automatic Attendance Tracking
+**Let's Meet** addresses the limitations of current video conferencing platforms by integrating powerful features tailored for **professionals, educators**, and **businesses**.
 
-Automatically records attendance based on participant activity.
+---
 
-Eliminates manual tracking and ensures accuracy.
+## ✨ Features
 
-2. Interactive Whiteboard
+- ✅ **Automatic Attendance Tracking**  
+  Tracks participant presence based on activity – no manual effort required.
 
-Real-time collaborative whiteboard for drawing and note-taking.
+- ✍️ **Interactive Whiteboard**  
+  Collaborate in real-time with drawing and note-taking.  
+  Save notes as PDFs for later reference.
 
-Save notes as PDFs for future reference.
+- 💬 **In-Meeting Chat**  
+  Chat live with all participants.  
+  Great for group discussions and Q&A.
 
-3. In-Meeting Chat
+- ☁️ **Cloud Storage Integration**  
+  Share files effortlessly using cloud services.
 
-Enables participants to communicate via text during meetings.
+- 🎥 **High-Quality Video Conferencing**  
+  Powered by **ZegoCloud API** for smooth and reliable video/audio.
 
-Supports seamless group discussions.
+- 🔐 **Secure Authentication**  
+  Login with confidence using **Firebase Authentication**.
 
-4. Cloud Storage Integration
+- 📅 **Meeting Management**  
+  Schedule, join, and manage meetings easily.  
+  Real-time notifications and attendance logs included.
 
-Allows file sharing and collaboration through cloud services.
+---
 
-5. High-Quality Video Conferencing
+## 🛠️ Technologies Used
 
-Powered by ZegoCloud API for reliable video and audio communication.
+### 🔥 Firebase
+- **Authentication** – Secure login & user management  
+- **Realtime Database** – Instant updates for meetings and attendance  
+- **Cloud Storage** – Secure file sharing  
+- **Cloud Functions** – Backend automation for attendance
 
-6. Secure Authentication
+### 💙 Flutter
+- Cross-platform development (Android, iOS, Web, Desktop)  
+- Custom widgets for a consistent and engaging UI
 
-User authentication powered by Firebase Authentication for a secure experience.
+### 🌐 ZegoCloud API
+- Real-time video/audio communication with low latency
 
-7. Meeting Management
+### 📦 Additional Libraries
+- `provider` – State management  
+- `get` – Navigation & dependency injection  
+- `path_provider` – Access device storage  
+- `google_sign_in` – Login with Google  
+- `permission_handler` – Camera & mic permissions  
+- `lottie` – Smooth animations  
+- `speech_to_text` – Voice-based input & transcription
 
-Schedule, join, and manage meetings with ease.
+---
 
-Includes real-time notifications and attendance records.
+## 📥 Installation
 
-Technologies Used
-
-1. Firebase
-
-Firebase Authentication: For secure login and user management.
-
-Firebase Realtime Database: Real-time data synchronization for meeting information and attendance.
-
-Cloud Storage: Facilitates secure file sharing.
-
-Cloud Functions: Backend logic for automated attendance tracking.
-
-2. Flutter
-
-Cross-platform development for Android, iOS, web, and desktop.
-
-Custom widgets for a unique and consistent user interface.
-
-3. ZegoCloud API
-
-Provides real-time video and audio conferencing capabilities.
-
-4. Additional Libraries
-
-Provider: For state management.
-
-Get: Lightweight navigation and dependency injection.
-
-Path Provider: For accessing device storage to save PDFs.
-
-Google Sign-In: For seamless authentication using Google accounts.
-
-Permission Handler: For managing permissions like camera and microphone access.
-
-Lottie: For adding animations.
-
-Speech-to-Text: Enables transcription and voice-based interactions.
-
-Installation
-
-Clone this repository:
-
-git clone https://github.com/your-repo/lets-meet.git
-
-Navigate to the project directory:
-
-cd lets-meet
-
-Install dependencies:
-
-flutter pub get
-
-Run the app:
-
-flutter run
-
-Usage
-
-Sign Up/Login:
-
-Use your Google account to log in securely.
-
-Schedule Meetings:
-
-Create and schedule meetings with ease.
-
-Join Meetings:
-
-Join meetings using a unique meeting ID or link.
-
-Collaborate:
-
-Use the whiteboard, chat, and file-sharing features for seamless collaboration.
-
-Track Attendance:
-
-Attendance is automatically logged based on participant activity.
-
-Key Learnings
-
-Strengthened skills in Flutter, Firebase, and real-time communication technologies.
-
-Gained hands-on experience in creating user-friendly interfaces and seamless state management.
-
-Developed efficient backend logic using serverless technologies.
-
-Acknowledgments
-
-I extend my heartfelt gratitude to Kamlakar Bhopatkar, my mentor, for his invaluable guidance, feedback, and support throughout this project.
-
-Contact
-
-For any queries or collaboration opportunities, feel free to reach out:
-
-Email: your.email@example.com
-
-LinkedIn: Your LinkedIn Profile
-
-GitHub: Your GitHub Profile
-
-Thank you for exploring "Let's Meet"! Your feedback and suggestions are highly appreciated. 😊
-
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-repo/lets-meet.git
+   cd lets-meet
